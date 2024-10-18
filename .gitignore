@@ -1,0 +1,8 @@
+.sendmail
+build
+dist
+SendMail.spec
+sendmail.py
+LOG_sendmails.log
+sendmail_banner.png
+clientes.xlsx
